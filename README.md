@@ -186,6 +186,6 @@ Trained models are loaded dynamically in the backend
 
 👩‍💻 Author
 
-Sunayana Yadav
-BE EXTC | AI/ML Enthusiast
+Rahul Yadav
+
 
