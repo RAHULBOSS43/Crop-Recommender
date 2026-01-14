@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+scikit-image
+scikit-learn
+joblib
+matplotlib
+seaborn
+flask
+flask-cors
+opencv-python
+requests
